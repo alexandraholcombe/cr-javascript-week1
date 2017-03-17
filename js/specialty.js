@@ -1,13 +1,9 @@
 var apiKey = require('./../.env').apiKey;
-var practices = require('./../js/practices.js').practiceModule;
 
-var allPractices = new Array();
-var newPractice;
-
-Lookup = function(){
+Specialty = function(){
 }
 
-Lookup.prototype.getDoctors = function(medicalIssue, showPractice) {
+Lookup.prototype.getDoctors = function(medicalIssue) {
   $.get('https://api.betterdoctor.com/2016-03-01/doctors?query='+ medicalIssue+'&location=45.5231%2C-122.6765%2C%205&user_location=45.5231%2C-122.6765&skip=0&limit=20&user_key=' + apiKey)
    .then(function(result) {
       var numOfPractices = result.data[0].practices.length
@@ -20,14 +16,7 @@ Lookup.prototype.getDoctors = function(medicalIssue, showPractice) {
         newPractice.makePractice(practiceName, practiceId, newPatients);
         allPractices.push(newPractice);
       }
-      for(i = 0; i < allPractices.length; i++){
-        showPractice(allPractices[i].name);
-      }
-      allPractices = [];
     })
    .fail(function(error){
       console.log("fail");
     });
-};
-
-exports.lookupModule = Lookup;

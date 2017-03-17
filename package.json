@@ -19,6 +19,7 @@
     "gulp-sourcemaps": "^2.4.1",
     "gulp-util": "^3.0.8",
     "jshint": "^2.9.4",
+    "susy": "^2.2.12",
     "vinyl-source-stream": "^1.1.0"
   },
   "dependencies": {

@@ -3,6 +3,7 @@
 <head>
   <meta charset="utf-8">
   <link rel="stylesheet" href="build/css/vendor.css">
+  <link rel="stylesheet" href="build/css/styles.css">
   <script src="build/js/vendor.min.js"></script>
   <script type="text/javascript" src="build/js/app.js"></script>
   <title>Doctor Lookup</title>
@@ -12,13 +13,12 @@
     <form id="symptom-form">
       <label for="symptom">Input primary symptom:</label>
       <input type="text" id="symptom" class="form-control">
-      <button type="submit" name="button">Search</button>
+      <button type="submit" name="button" id="symptom-button">Search</button>
     </form>
-
-    <ul id="results">
-
+    <div id="result-container">
+      <ul id="results">
+      </ul>
     </div>
   </div>
-
 </body>
 </html>
