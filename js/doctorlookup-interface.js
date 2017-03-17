@@ -6,11 +6,11 @@ $(function(){
     event.preventDefault();
     var medicalIssue = $('#symptom').val();
 
-    function showFirstDoctor(input){
+    function showPractice(input){
       $('#results').append('<li>' + input + '</li>');
     }
 
-    newLookup.getDoctors(medicalIssue, showFirstDoctor);
-
+    newLookup.getDoctors(medicalIssue);
+    newLookup.printDoctors(showPractice);
   })
 })
