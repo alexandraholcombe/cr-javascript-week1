@@ -113,7 +113,7 @@ gulp.task('cssBuild', function() {
     .pipe(browserSync.stream());
 });
 
-// gulp.task('fontBuild', function() {
-//   return gulp.src('fonts/*.ttf')
-//     .pipe(gulp.dest('build/fonts'));
-// });
+gulp.task('fontBuild', function() {
+  return gulp.src('fonts/*.ttf')
+    .pipe(gulp.dest('build/fonts'));
+});

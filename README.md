@@ -7,7 +7,7 @@ Webpage to find a doctor based on medical 'issue' (ie toothache) in provided are
 
 ***
 ## Setup/Installation Requirements
-* Requires Node.js
+* Requires Node.js, JSHint
 * Clone to local machine
 * Create build structure & link dependencies with below Node setup instructions
 * Use command `gulp build` or `gulp build --production` to run Gulp tasks
@@ -23,7 +23,8 @@ Webpage to find a doctor based on medical 'issue' (ie toothache) in provided are
 `> npm install gulp-uglify --save-dev`  
 `> npm install gulp-util --save-dev`  
 `> npm install del --save-dev`  
-`> npm install jshint --save-dev`  
+`> npm install jshint --save-dev`
+`> npm install gulp-jshint --save-dev`  
 `> npm install bower --save`  
 `> bower init`  
 `> bower install jquery --save`  
