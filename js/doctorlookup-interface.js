@@ -1,6 +1,8 @@
 var lookup = require('./../js/doctorlookup.js').lookupModule;
 
 $(function(){
+
+  //this MOSTLY works
   var height = $(window).height();
   $('.container').height(height);
 
