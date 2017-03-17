@@ -1,0 +1,21 @@
+{
+  "name": "javascript-week1",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Alexandra Holcombe <alexandra.holcombe@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.0",
+    "bootstrap": "^3.3.7"
+  }
+}
