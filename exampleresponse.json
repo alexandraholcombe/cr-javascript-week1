@@ -1,0 +1,646 @@
+{
+  "meta": {
+    "data_type": "array",
+    "item_type": "Doctor",
+    "total": 1,
+    "count": 1,
+    "skip": 0,
+    "limit": 20
+  },
+  "data": [
+    {
+      "practices": [
+        {
+          "location_slug": "or-portland",
+          "within_search_area": false,
+          "distance": 5.5733907653647,
+          "lat": 45.512875,
+          "lon": -122.756423,
+          "uid": "4618dc2629fe8970bfb699e855cf0797",
+          "name": "Harry Reahl, MD",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "cigna-cignaopenaccessplus",
+            "multiplan-phcsppo",
+            "multiplan-multiplanppo",
+            "providencehealthsystem-providencepreferredppo",
+            "bcbsbluecard-bcbsbluecardppo",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "providencehealthsystem-providencepersonaloption",
+            "cigna-cignappo",
+            "aetna-aetnasignatureadministratorsppo",
+            "aetna-aetnachoiceposii",
+            "firstchoice-firstchoice",
+            "uhcwestformerlypacificare-pacificarehmo",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "medicare-medicare",
+            "pacificsourcehealthplans-pacificsourcepreferredpsn",
+            "regencebluecrossblueshieldoforegon-regenceorpreferredprovidernetwork",
+            "odshealthplan-odsnetwork",
+            "lifewisehealthplanoforegon-lifewisehealthplanoforegon",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo",
+            "firsthealthcoventryhealthcare-firsthealthppo"
+          ],
+          "visit_address": {
+            "city": "Portland",
+            "lat": 45.512875,
+            "lon": -122.756423,
+            "state": "OR",
+            "state_long": "Oregon",
+            "street": "9427 SW Barnes Rd",
+            "street2": "Ste 595",
+            "zip": "97225"
+          },
+          "office_hours": [
+
+          ],
+          "phones": [
+            {
+              "number": "5032161150",
+              "type": "landline"
+            },
+            {
+              "number": "5032161066",
+              "type": "fax"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        },
+        {
+          "location_slug": "or-portland",
+          "within_search_area": false,
+          "distance": 5.5733907653647,
+          "lat": 45.512875,
+          "lon": -122.756423,
+          "uid": "08fd27de8015ee20277e77146b1b83e4",
+          "name": "Providence St. Vincent Heart Clinic-cardiology",
+          "website": "http:\/\/oregon.providence.org\/",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "bcbsbluecard-bcbsbluecardppo",
+            "providencehealthsystem-providencepreferredppo",
+            "aetna-aetnachoiceposii",
+            "firstchoice-firstchoice",
+            "uhcwestformerlypacificare-pacificarehmo",
+            "cigna-cignappo",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "aetna-aetnasignatureadministratorsppo",
+            "providencehealthsystem-providencepersonaloption",
+            "multiplan-phcsppo",
+            "cigna-cignaopenaccessplus",
+            "multiplan-multiplanppo",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "medicaid-medicaid",
+            "medicare-medicare",
+            "pacificsourcehealthplans-pacificsourcepreferredpsn",
+            "odshealthplan-odsnetwork",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo"
+          ],
+          "visit_address": {
+            "city": "Portland",
+            "lat": 45.512875,
+            "lon": -122.756423,
+            "state": "OR",
+            "state_long": "Oregon",
+            "street": "9427 SW Barnes Rd",
+            "street2": "Ste 498",
+            "zip": "97225"
+          },
+          "office_hours": [
+
+          ],
+          "phones": [
+            {
+              "number": "5032160900",
+              "type": "landline"
+            },
+            {
+              "number": "5032160950",
+              "type": "fax"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        },
+        {
+          "location_slug": "or-portland",
+          "within_search_area": false,
+          "distance": 6.6497073928892,
+          "lat": 45.51092,
+          "lon": -122.77186,
+          "uid": "5f4dbbfb4712f7bc240ca01935da8640",
+          "name": "Brian Kearns, MD",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "bcbsbluecard-bcbsbluecardppo",
+            "multiplan-phcsppo",
+            "cigna-cignappo",
+            "cigna-cignaopenaccessplus",
+            "aetna-aetnasignatureadministratorsppo",
+            "aetna-aetnachoiceposii",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "firstchoice-firstchoice",
+            "uhcwestformerlypacificare-pacificarehmo",
+            "multiplan-multiplanppo",
+            "providencehealthsystem-providencepreferredppo",
+            "premerabcbs-premeraheritagesignaturehix",
+            "premerabcbs-lifewiseconnecthix",
+            "medicaid-medicaid",
+            "medicare-medicare",
+            "pacificsourcehealthplans-pacificsourcepreferredpsn",
+            "regencebluecrossblueshieldoforegon-regenceorpreferredprovidernetwork",
+            "odshealthplan-odsnetwork",
+            "lifewisehealthplanoforegon-lifewisehealthplanoforegon",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo"
+          ],
+          "visit_address": {
+            "city": "Portland",
+            "lat": 45.51092,
+            "lon": -122.77186,
+            "state": "OR",
+            "state_long": "Oregon",
+            "street": "9205 SW Barnes Rd",
+            "zip": "97225"
+          },
+          "office_hours": [
+
+          ],
+          "phones": [
+            {
+              "number": "5032929108",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        }
+      ],
+      "educations": [
+        {
+          "school": "Georgetown University School of Medicine",
+          "degree": "MD"
+        },
+        {
+          "school": "Georgetown University Hospital",
+          "degree": "Residency"
+        },
+        {
+          "school": "Georgetown University Hospital",
+          "degree": "Fellowship"
+        }
+      ],
+      "profile": {
+        "first_name": "Harry",
+        "middle_name": "L",
+        "last_name": "Reahl",
+        "slug": "harry-reahl-md",
+        "title": "MD",
+        "image_url": "https:\/\/asset2.betterdoctor.com\/images\/553de82c4214f87cb10001d1-2_thumbnail.jpg",
+        "gender": "male",
+        "languages": [
+          {
+            "name": "English",
+            "code": "en"
+          }
+        ],
+        "bio": "Dr. Reahl taught at Georgetown University Hospital and was an assistant professor at West Virginia University. He has served as vice chief of the department of neurological medicine at Charleston Area Medical Center and was the examining physician for many clinical trials.\n\nDr. Reahl is a general neurologist with an interest in the treatment of headache without narcotics. He is board-certified in neurology and joins Providence after practicing in neurology clinics in Charleston, W.Va., for 14 years. Dr. Reahl earned a master's in physiology and his medical degree at Georgetown University. He completed a residency in neurology and a fellowship in electroencephalography and sleep medicine at Georgetown University Hospital."
+      },
+      "ratings": [
+
+      ],
+      "insurances": [
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "multiplan-phcsppo",
+            "name": "PHCS PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "multiplan-multiplanppo",
+            "name": "Multiplan PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "multiplan",
+            "name": "Multiplan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepreferredppo",
+            "name": "Providence Preferred PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthsystem",
+            "name": "Providence Health System"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbsbluecard",
+            "name": "BCBS Blue Card"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthsystem",
+            "name": "Providence Health System"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnasignatureadministratorsppo",
+            "name": "Aetna Signature Administrators PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoice",
+            "name": "First Choice"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "uhcwestformerlypacificare-pacificarehmo",
+            "name": "Pacificare HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "uhcwestformerlypacificare",
+            "name": "UHC West Formerly Pacificare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-premeraheritagesignaturehix",
+            "name": "Premera Heritage Signature - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabcbs",
+            "name": "Premera Blue Cross Blue Shield"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabcbs-lifewiseconnecthix",
+            "name": "LifeWise Connect - HIX",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabcbs",
+            "name": "Premera Blue Cross Blue Shield"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "medicare-medicare",
+            "name": "Medicare",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "medicare",
+            "name": "Medicare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "pacificsourcehealthplans-pacificsourcepreferredpsn",
+            "name": "PacificSource Preferred PSN",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "pacificsourcehealthplans",
+            "name": "PacificSource Health Plans"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regencebluecrossblueshieldoforegon-regenceorpreferredprovidernetwork",
+            "name": "Regence OR Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "regencebluecrossblueshieldoforegon",
+            "name": "Regence Blue Cross Blue Shield of Oregon"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "odshealthplan-odsnetwork",
+            "name": "ODS Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "odshealthplan",
+            "name": "ODS Health Plan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "lifewisehealthplanoforegon-lifewisehealthplanoforegon",
+            "name": "Lifewise Health Plan of Oregon",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "lifewisehealthplanoforegon",
+            "name": "Lifewise health Plan of Oregon"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritageheritageplus1",
+            "name": "Premera Heritage  Heritage Plus 1",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeralifewiseconnect",
+            "name": "Premera LifeWise Connect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "gwhcigna",
+            "name": "GWH-Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "firsthealthcoventryhealthcare-firsthealthppo",
+            "name": "First Health PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firsthealthcoventryhealthcare",
+            "name": "First Health Coventry Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "medicaid-medicaid",
+            "name": "Medicaid",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "medicaid",
+            "name": "Medicaid"
+          }
+        }
+      ],
+      "specialties": [
+        {
+          "uid": "neurologist",
+          "name": "Neurology",
+          "description": "Specializes in the brain and nervous system.",
+          "category": "medical",
+          "actor": "Neurologist",
+          "actors": "Neurologists"
+        }
+      ],
+      "licenses": [
+        {
+          "number": "MD152829",
+          "state": "OR"
+        }
+      ],
+      "uid": "43a32282514b6969209fcf3fc60dc6ce",
+      "npi": "1073603916"
+    }
+  ]
+}
