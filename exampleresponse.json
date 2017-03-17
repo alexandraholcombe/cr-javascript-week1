@@ -2,8 +2,8 @@
   "meta": {
     "data_type": "array",
     "item_type": "Doctor",
-    "total": 1,
-    "count": 1,
+    "total": 2,
+    "count": 2,
     "skip": 0,
     "limit": 20
   },
@@ -12,64 +12,32 @@
       "practices": [
         {
           "location_slug": "or-portland",
-          "within_search_area": false,
-          "distance": 5.5733907653647,
-          "lat": 45.512875,
-          "lon": -122.756423,
-          "uid": "4618dc2629fe8970bfb699e855cf0797",
-          "name": "Harry Reahl, MD",
+          "within_search_area": true,
+          "distance": 1.6917855547304,
+          "lat": 45.54725,
+          "lon": -122.68037,
+          "uid": "ef85a884d2e0ce10dce1b0b4c2e4ad6d",
+          "name": "Melanie Plaut, MD",
           "accepts_new_patients": true,
           "insurance_uids": [
-            "cigna-cignaopenaccessplus",
-            "multiplan-phcsppo",
-            "multiplan-multiplanppo",
-            "providencehealthsystem-providencepreferredppo",
-            "bcbsbluecard-bcbsbluecardppo",
-            "aetna-aetnamanagedchoiceposopenaccess",
-            "providencehealthsystem-providencepersonaloption",
-            "cigna-cignappo",
-            "aetna-aetnasignatureadministratorsppo",
-            "aetna-aetnachoiceposii",
-            "firstchoice-firstchoice",
-            "uhcwestformerlypacificare-pacificarehmo",
-            "premerabcbs-premeraheritagesignaturehix",
-            "premerabcbs-lifewiseconnecthix",
-            "medicare-medicare",
-            "pacificsourcehealthplans-pacificsourcepreferredpsn",
-            "regencebluecrossblueshieldoforegon-regenceorpreferredprovidernetwork",
-            "odshealthplan-odsnetwork",
-            "lifewisehealthplanoforegon-lifewisehealthplanoforegon",
-            "premerabluecross-premeraheritageheritageplus1",
-            "premerabluecross-premeraheritagesignature",
-            "premerabluecross-premeralifewiseconnect",
-            "gwhcigna-greatwestppo",
-            "unitedhealthcare-uhcchoicepluspos",
-            "unitedhealthcare-uhcnavigatehmo",
-            "unitedhealthcare-uhcnavigatepos",
-            "unitedhealthcare-uhcoptionsppo",
-            "firsthealthcoventryhealthcare-firsthealthppo"
+
           ],
           "visit_address": {
             "city": "Portland",
-            "lat": 45.512875,
-            "lon": -122.756423,
+            "lat": 45.54725,
+            "lon": -122.68037,
             "state": "OR",
             "state_long": "Oregon",
-            "street": "9427 SW Barnes Rd",
-            "street2": "Ste 595",
-            "zip": "97225"
+            "street": "3550 N Interstate Ave",
+            "zip": "97227"
           },
           "office_hours": [
 
           ],
           "phones": [
             {
-              "number": "5032161150",
+              "number": "5033316142",
               "type": "landline"
-            },
-            {
-              "number": "5032161066",
-              "type": "fax"
             }
           ],
           "languages": [
@@ -81,125 +49,33 @@
         },
         {
           "location_slug": "or-portland",
-          "within_search_area": false,
-          "distance": 5.5733907653647,
-          "lat": 45.512875,
-          "lon": -122.756423,
-          "uid": "08fd27de8015ee20277e77146b1b83e4",
-          "name": "Providence St. Vincent Heart Clinic-cardiology",
-          "website": "http:\/\/oregon.providence.org\/",
+          "within_search_area": true,
+          "distance": 1.6917855547304,
+          "lat": 45.54725,
+          "lon": -122.68037,
+          "uid": "1b73b30358804065614289f1644d7dfa",
+          "name": "Kaiser Permanente Interstate Medical Office",
           "accepts_new_patients": true,
           "insurance_uids": [
-            "bcbsbluecard-bcbsbluecardppo",
-            "providencehealthsystem-providencepreferredppo",
-            "aetna-aetnachoiceposii",
-            "firstchoice-firstchoice",
-            "uhcwestformerlypacificare-pacificarehmo",
-            "cigna-cignappo",
-            "aetna-aetnamanagedchoiceposopenaccess",
-            "aetna-aetnasignatureadministratorsppo",
-            "providencehealthsystem-providencepersonaloption",
-            "multiplan-phcsppo",
-            "cigna-cignaopenaccessplus",
-            "multiplan-multiplanppo",
-            "premerabcbs-premeraheritagesignaturehix",
-            "premerabcbs-lifewiseconnecthix",
             "medicaid-medicaid",
             "medicare-medicare",
-            "pacificsourcehealthplans-pacificsourcepreferredpsn",
-            "odshealthplan-odsnetwork",
-            "premerabluecross-premeraheritageheritageplus1",
-            "premerabluecross-premeraheritagesignature",
-            "premerabluecross-premeralifewiseconnect",
-            "gwhcigna-greatwestppo",
-            "unitedhealthcare-uhcchoicepluspos",
-            "unitedhealthcare-uhcnavigatehmo",
-            "unitedhealthcare-uhcnavigatepos",
-            "unitedhealthcare-uhcoptionsppo"
+            "aetna-aetnamdbronzesilverandgoldhmo"
           ],
           "visit_address": {
             "city": "Portland",
-            "lat": 45.512875,
-            "lon": -122.756423,
+            "lat": 45.54725,
+            "lon": -122.68037,
             "state": "OR",
             "state_long": "Oregon",
-            "street": "9427 SW Barnes Rd",
-            "street2": "Ste 498",
-            "zip": "97225"
+            "street": "3550 N Interstate Ave",
+            "zip": "97227"
           },
           "office_hours": [
 
           ],
           "phones": [
             {
-              "number": "5032160900",
-              "type": "landline"
-            },
-            {
-              "number": "5032160950",
-              "type": "fax"
-            }
-          ],
-          "languages": [
-            {
-              "name": "English",
-              "code": "en"
-            }
-          ]
-        },
-        {
-          "location_slug": "or-portland",
-          "within_search_area": false,
-          "distance": 6.6497073928892,
-          "lat": 45.51092,
-          "lon": -122.77186,
-          "uid": "5f4dbbfb4712f7bc240ca01935da8640",
-          "name": "Brian Kearns, MD",
-          "accepts_new_patients": true,
-          "insurance_uids": [
-            "bcbsbluecard-bcbsbluecardppo",
-            "multiplan-phcsppo",
-            "cigna-cignappo",
-            "cigna-cignaopenaccessplus",
-            "aetna-aetnasignatureadministratorsppo",
-            "aetna-aetnachoiceposii",
-            "aetna-aetnamanagedchoiceposopenaccess",
-            "firstchoice-firstchoice",
-            "uhcwestformerlypacificare-pacificarehmo",
-            "multiplan-multiplanppo",
-            "providencehealthsystem-providencepreferredppo",
-            "premerabcbs-premeraheritagesignaturehix",
-            "premerabcbs-lifewiseconnecthix",
-            "medicaid-medicaid",
-            "medicare-medicare",
-            "pacificsourcehealthplans-pacificsourcepreferredpsn",
-            "regencebluecrossblueshieldoforegon-regenceorpreferredprovidernetwork",
-            "odshealthplan-odsnetwork",
-            "lifewisehealthplanoforegon-lifewisehealthplanoforegon",
-            "premerabluecross-premeraheritageheritageplus1",
-            "premerabluecross-premeraheritagesignature",
-            "premerabluecross-premeralifewiseconnect",
-            "gwhcigna-greatwestppo",
-            "unitedhealthcare-uhcchoicepluspos",
-            "unitedhealthcare-uhcnavigatehmo",
-            "unitedhealthcare-uhcnavigatepos",
-            "unitedhealthcare-uhcoptionsppo"
-          ],
-          "visit_address": {
-            "city": "Portland",
-            "lat": 45.51092,
-            "lon": -122.77186,
-            "state": "OR",
-            "state_long": "Oregon",
-            "street": "9205 SW Barnes Rd",
-            "zip": "97225"
-          },
-          "office_hours": [
-
-          ],
-          "phones": [
-            {
-              "number": "5032929108",
+              "number": "5032859321",
               "type": "landline"
             }
           ],
@@ -213,33 +89,25 @@
       ],
       "educations": [
         {
-          "school": "Georgetown University School of Medicine",
+          "school": "University of Pennsylvania School of Medicine",
           "degree": "MD"
-        },
-        {
-          "school": "Georgetown University Hospital",
-          "degree": "Residency"
-        },
-        {
-          "school": "Georgetown University Hospital",
-          "degree": "Fellowship"
         }
       ],
       "profile": {
-        "first_name": "Harry",
-        "middle_name": "L",
-        "last_name": "Reahl",
-        "slug": "harry-reahl-md",
+        "first_name": "Melanie",
+        "middle_name": "M",
+        "last_name": "Plaut",
+        "slug": "melanie-plaut-md",
         "title": "MD",
-        "image_url": "https:\/\/asset2.betterdoctor.com\/images\/553de82c4214f87cb10001d1-2_thumbnail.jpg",
-        "gender": "male",
+        "image_url": "https:\/\/asset3.betterdoctor.com\/images\/55668a444214f823bb00171c-2_thumbnail.jpg",
+        "gender": "female",
         "languages": [
           {
             "name": "English",
             "code": "en"
           }
         ],
-        "bio": "Dr. Reahl taught at Georgetown University Hospital and was an assistant professor at West Virginia University. He has served as vice chief of the department of neurological medicine at Charleston Area Medical Center and was the examining physician for many clinical trials.\n\nDr. Reahl is a general neurologist with an interest in the treatment of headache without narcotics. He is board-certified in neurology and joins Providence after practicing in neurology clinics in Charleston, W.Va., for 14 years. Dr. Reahl earned a master's in physiology and his medical degree at Georgetown University. He completed a residency in neurology and a fellowship in electroencephalography and sleep medicine at Georgetown University Hospital."
+        "bio": "I was born in Boston, lived briefly in California, attended high school in Maryland, went to Swarthmore for undergraduate studies, and then on medical school at the University of Pennsylvania. I came to the Pacific Northwest to do my residency at Oregon Health Sciences University, and now I would never want to live anywhere else! I met my husband when we were in college; he teaches Urban Planning at Portland State University. We have two terrific daughters in their twenties, and two (sometimes naughty) young standard poodles.\nMedicine has been a good fit for me. I like the challenge of keeping up with the latest research, and I look forward to reading my medical journals. I really enjoy getting to know my patients. It is a huge privilege to be part of their lives.\n\nI have a general obstetrics and gynecology practice. I enjoy caring for women with infertility, pregnancy, contraception, and menstrual or menopausal problems, among other issues. I am oriented toward prevention and natural approaches. I do surgery when it is needed. I try to partner with my patients in making decisions about medical care. I don't believe that one size fits all.\nIn addition to my practice of obstetrics and gynecology, I chair an Ethics Committee that approves any research done at Kaiser Permanente Northwest, and help others in my department to use the electronic medical record more effectively. Of course, I want the best for my own patients, but I also want all patients at Kaiser Permanente to have superb care. One of the great things about working here is that the doctors are not in competition with each other. We are always trying to help each other to make the care better for everyone.\n\nI have a large vegetable garden and also grow figs, Asian pears, grapes and blueberries. For exercise I garden, go to the gym, and walk the poodles. I try to eat a healthy diet; I am a pescatarian (vegetarian but I also eat fish), but I confess to a weakness for sweets. I enjoy crossword puzzles, and usually read two newspapers every morning. Learning something new is always a pleasure for me. I have studied French and Italian in recent years. Right now I am taking banjo lessons.\nLast year I started a monthly \"soup night\" for my neighbors, so we could see each other even during the cold and rainy winter months. In the summer, I like to stroll the neighborhood or walk over to Alberta Street. In the winter I like curling up on the couch with my husband, a knitting project, a good TV show and maybe a poodle or two."
       },
       "ratings": [
 
@@ -247,184 +115,15 @@
       "insurances": [
         {
           "insurance_plan": {
-            "uid": "cigna-cignaopenaccessplus",
-            "name": "CIGNA Open Access Plus",
+            "uid": "medicaid-medicaid",
+            "name": "Medicaid",
             "category": [
               "medical"
             ]
           },
           "insurance_provider": {
-            "uid": "cigna",
-            "name": "Cigna"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "multiplan-phcsppo",
-            "name": "PHCS PPO",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "multiplan",
-            "name": "Multiplan"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "multiplan-multiplanppo",
-            "name": "Multiplan PPO",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "multiplan",
-            "name": "Multiplan"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "providencehealthsystem-providencepreferredppo",
-            "name": "Providence Preferred PPO",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "providencehealthsystem",
-            "name": "Providence Health System"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "bcbsbluecard-bcbsbluecardppo",
-            "name": "BCBS Blue Card PPO",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "bcbsbluecard",
-            "name": "BCBS Blue Card"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "aetna-aetnamanagedchoiceposopenaccess",
-            "name": "Aetna Managed Choice POS Open Access",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "aetna",
-            "name": "Aetna"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "providencehealthsystem-providencepersonaloption",
-            "name": "Providence Personal Option",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "providencehealthsystem",
-            "name": "Providence Health System"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "cigna-cignappo",
-            "name": "CIGNA PPO",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "cigna",
-            "name": "Cigna"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "aetna-aetnasignatureadministratorsppo",
-            "name": "Aetna Signature Administrators PPO",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "aetna",
-            "name": "Aetna"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "aetna-aetnachoiceposii",
-            "name": "Aetna Choice POS II",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "aetna",
-            "name": "Aetna"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "firstchoice-firstchoice",
-            "name": "First Choice",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "firstchoice",
-            "name": "First Choice"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "uhcwestformerlypacificare-pacificarehmo",
-            "name": "Pacificare HMO",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "uhcwestformerlypacificare",
-            "name": "UHC West Formerly Pacificare"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "premerabcbs-premeraheritagesignaturehix",
-            "name": "Premera Heritage Signature - HIX",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "premerabcbs",
-            "name": "Premera Blue Cross Blue Shield"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "premerabcbs-lifewiseconnecthix",
-            "name": "LifeWise Connect - HIX",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "premerabcbs",
-            "name": "Premera Blue Cross Blue Shield"
+            "uid": "medicaid",
+            "name": "Medicaid"
           }
         },
         {
@@ -442,173 +141,110 @@
         },
         {
           "insurance_plan": {
-            "uid": "pacificsourcehealthplans-pacificsourcepreferredpsn",
-            "name": "PacificSource Preferred PSN",
+            "uid": "aetna-aetnamdbronzesilverandgoldhmo",
+            "name": "MD Bronze Silver  Gold - HMO",
             "category": [
               "medical"
             ]
           },
           "insurance_provider": {
-            "uid": "pacificsourcehealthplans",
-            "name": "PacificSource Health Plans"
+            "uid": "aetna",
+            "name": "Aetna"
           }
+        }
+      ],
+      "specialties": [
+        {
+          "uid": "obstetrics-gynecologist",
+          "name": "Obstetrics & Gynecology",
+          "description": "Specializes in the care of the female reproductive system.",
+          "category": "medical",
+          "actor": "OBGYN",
+          "actors": "OBGYNS"
+        }
+      ],
+      "licenses": [
+        {
+          "number": "MD13034",
+          "state": "OR",
+          "end_date": "2013-12-31"
         },
         {
-          "insurance_plan": {
-            "uid": "regencebluecrossblueshieldoforegon-regenceorpreferredprovidernetwork",
-            "name": "Regence OR Preferred Provider Network",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "regencebluecrossblueshieldoforegon",
-            "name": "Regence Blue Cross Blue Shield of Oregon"
-          }
-        },
+          "number": "MD00025755",
+          "state": "WA"
+        }
+      ],
+      "uid": "70cde4a6354685c9d57218052a094f2c",
+      "npi": "1245344803"
+    },
+    {
+      "practices": [
         {
-          "insurance_plan": {
-            "uid": "odshealthplan-odsnetwork",
-            "name": "ODS Network",
-            "category": [
-              "medical"
-            ]
+          "location_slug": "or-portland",
+          "within_search_area": true,
+          "distance": 1.6917855547304,
+          "lat": 45.54725,
+          "lon": -122.68037,
+          "uid": "1b73b30358804065614289f1644d7dfa",
+          "name": "Kaiser Permanente Interstate Medical Office",
+          "accepts_new_patients": true,
+          "insurance_uids": [
+            "medicaid-medicaid",
+            "medicare-medicare",
+            "aetna-aetnamdbronzesilverandgoldhmo"
+          ],
+          "visit_address": {
+            "city": "Portland",
+            "lat": 45.54725,
+            "lon": -122.68037,
+            "state": "OR",
+            "state_long": "Oregon",
+            "street": "3550 N Interstate Ave",
+            "zip": "97227"
           },
-          "insurance_provider": {
-            "uid": "odshealthplan",
-            "name": "ODS Health Plan"
-          }
-        },
+          "office_hours": [
+
+          ],
+          "phones": [
+            {
+              "number": "5032859321",
+              "type": "landline"
+            }
+          ],
+          "languages": [
+            {
+              "name": "English",
+              "code": "en"
+            }
+          ]
+        }
+      ],
+      "educations": [
         {
-          "insurance_plan": {
-            "uid": "lifewisehealthplanoforegon-lifewisehealthplanoforegon",
-            "name": "Lifewise Health Plan of Oregon",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "lifewisehealthplanoforegon",
-            "name": "Lifewise health Plan of Oregon"
+          "school": "New York University School of Medicine",
+          "degree": "MD"
+        }
+      ],
+      "profile": {
+        "first_name": "Brian",
+        "middle_name": "L",
+        "last_name": "Greenberg",
+        "slug": "brian-greenberg-md",
+        "title": "MD",
+        "image_url": "https:\/\/asset4.betterdoctor.com\/images\/5566902a4214f82a44002c3a-2_thumbnail.jpg",
+        "gender": "male",
+        "languages": [
+          {
+            "name": "English",
+            "code": "en"
           }
-        },
-        {
-          "insurance_plan": {
-            "uid": "premerabluecross-premeraheritageheritageplus1",
-            "name": "Premera Heritage  Heritage Plus 1",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "premerabluecross",
-            "name": "Premera Blue Cross"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "premerabluecross-premeraheritagesignature",
-            "name": "Premera Heritage Signature",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "premerabluecross",
-            "name": "Premera Blue Cross"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "premerabluecross-premeralifewiseconnect",
-            "name": "Premera LifeWise Connect",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "premerabluecross",
-            "name": "Premera Blue Cross"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "gwhcigna-greatwestppo",
-            "name": "Great West PPO",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "gwhcigna",
-            "name": "GWH-Cigna"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "unitedhealthcare-uhcchoicepluspos",
-            "name": "UHC Choice Plus POS",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "unitedhealthcare",
-            "name": "United Healthcare"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "unitedhealthcare-uhcnavigatehmo",
-            "name": "UHC Navigate HMO",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "unitedhealthcare",
-            "name": "United Healthcare"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "unitedhealthcare-uhcnavigatepos",
-            "name": "UHC Navigate POS",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "unitedhealthcare",
-            "name": "United Healthcare"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "unitedhealthcare-uhcoptionsppo",
-            "name": "UHC Options PPO",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "unitedhealthcare",
-            "name": "United Healthcare"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "firsthealthcoventryhealthcare-firsthealthppo",
-            "name": "First Health PPO",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "firsthealthcoventryhealthcare",
-            "name": "First Health Coventry Healthcare"
-          }
-        },
+        ],
+        "bio": "I am a New Yorker by birth, and I have spent most of my life on the East Coast. Since moving to Portland in July of 2011, I have fallen in love with this town. I have two small children and I believe there is no better place for them to grow up. I am also a firm believer in the Kaiser Permanente model for providing medical care. As the health care debate rages on in this country, I see Kaiser Permanente as the model for the rest of the country to follow and I am honored to be a part of it.\n\nI am the newest of five rheumatologists at Kaiser Permanente Northwest. My approach to patient care centers around the idea that the best outcomes are achieved when the patient is an active partner in his or her care. Patients need to be informed about their condition and the risks and benefits of all the available treatment options. To this end, I believe the role of the provider is to facilitate this process by acting as both an educator and a guide.\n\nWhen not in the clinic, most of my time and energy is spent with my kids. As new arrivals to Portland, we are trying to take advantage of all the many activities available. Aside from this, I can't imagine a better way to spend a Saturday or Sunday in the summer than playing softball in the park (followed by some ice cold beverages of course)."
+      },
+      "ratings": [
+
+      ],
+      "insurances": [
         {
           "insurance_plan": {
             "uid": "medicaid-medicaid",
@@ -621,26 +257,63 @@
             "uid": "medicaid",
             "name": "Medicaid"
           }
+        },
+        {
+          "insurance_plan": {
+            "uid": "medicare-medicare",
+            "name": "Medicare",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "medicare",
+            "name": "Medicare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamdbronzesilverandgoldhmo",
+            "name": "MD Bronze Silver  Gold - HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
         }
       ],
       "specialties": [
         {
-          "uid": "neurologist",
-          "name": "Neurology",
-          "description": "Specializes in the brain and nervous system.",
+          "uid": "rheumatologist",
+          "name": "Rheumatology",
+          "description": "Specializes in joints, muscles, bones and tendons.",
           "category": "medical",
-          "actor": "Neurologist",
-          "actors": "Neurologists"
+          "actor": "Rheumatologist",
+          "actors": "Rheumatologists"
         }
       ],
       "licenses": [
         {
-          "number": "MD152829",
-          "state": "OR"
+          "end_date": "2013-12-31"
+        },
+        {
+          "number": "A98940",
+          "state": "CA"
+        },
+        {
+          "number": "048598",
+          "state": "CT"
+        },
+        {
+          "number": "48598",
+          "state": "CT"
         }
       ],
-      "uid": "43a32282514b6969209fcf3fc60dc6ce",
-      "npi": "1073603916"
+      "uid": "68cfb24977860f634521e86216ef7669",
+      "npi": "1609074723"
     }
   ]
 }

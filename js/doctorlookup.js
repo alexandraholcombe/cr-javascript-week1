@@ -1,33 +1,36 @@
 var apiKey = require('./../.env').apiKey;
-var practices = require('./../js/practices.js').practiceModule;
+var doctors = require('./../js/doctor.js').doctorModule;
 
-var allPractices = new Array();
-var newPractice;
+var allDoctors = new Array();
+var newDoctor;
 
 Lookup = function(){
 }
 
-Lookup.prototype.getDoctors = function(medicalIssue, showPractice) {
-  $.get('https://api.betterdoctor.com/2016-03-01/doctors?query='+ medicalIssue+'&location=45.5231%2C-122.6765%2C%205&user_location=45.5231%2C-122.6765&skip=0&limit=20&user_key=' + apiKey)
-   .then(function(result) {
-      var numOfPractices = result.data[0].practices.length
+Lookup.prototype.getDoctors = function(medicalIssue, showDoctor) {
+  $.get('https://api.betterdoctor.com/2016-03-01/doctors?query='+ medicalIssue+'&location=45.5231%2C-122.6765%2C%205&user_location=45.5231%2C-122.6765&skip=0&limit=10&user_key=' + apiKey)
+  .then(function(result) {
+    var numOfObjects = result.data.length;
+    for (j = 0; j < numOfObjects; j++) {
+      var numOfPractices = result.data[j].practices.length;
+      var physician = result.data[j].profile.first_name + " " + result.data[j].profile.last_name + ", " + result.data[j].profile.title;
+      var doctorPractices = new Array();
       for (i = 0; i < numOfPractices; i++){
-        var practiceName = result.data[0].practices[i].name;
-        var practiceId = result.data[0].practices[i].uid;
-        var newPatients = result.data[0].practices[i].accepts_new_patients;
-
-        newPractice = new Practice();
-        newPractice.makePractice(practiceName, practiceId, newPatients);
-        allPractices.push(newPractice);
+        var practiceName = result.data[j].practices[i].name;
+        doctorPractices.push(practiceName);
       }
-      for(i = 0; i < allPractices.length; i++){
-        showPractice(allPractices[i].name);
-      }
-      allPractices = [];
-    })
-   .fail(function(error){
-      console.log("fail");
-    });
+      var newDoctor = new Doctor();
+      newDoctor.makeDoctor(physician, doctorPractices);
+      allDoctors.push(newDoctor);
+    }
+    for(i = 0; i < allDoctors.length; i++){
+      showDoctor(allDoctors[i].physician, allDoctors[i].practices, i);
+    }
+    allDoctors = [];
+  })
+  .fail(function(error){
+    console.log("fail");
+  });
 };
 
 exports.lookupModule = Lookup;
