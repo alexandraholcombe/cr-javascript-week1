@@ -19,7 +19,7 @@ $(function(){
             '<div id="collapse'+ i + '" class="panel-collapse collapse" ' +
             'role="tabpanel" aria-labelledby="heading' + i + '">' +
             '<div class="panel-body">' +
-            '<ul id="phys' + i + '-practices"></ul></div></div></div>'
+            '<h3>Practices:</h3><ul id="phys' + i + '-practices"></ul></div></div></div>'
   );
   writePractices(practices, i);
 }
@@ -28,6 +28,7 @@ $('#symptom-form').submit(function(event){
   var medicalIssue = $('#symptom').val();
   $('#symptom').val("");
   $('#results').empty();
+  $('div.panel').remove();
 
   newLookup.getDoctors(medicalIssue, showDoctor);
 })
