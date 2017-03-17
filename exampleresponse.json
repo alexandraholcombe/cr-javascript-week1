@@ -5,7 +5,7 @@
     "total": 2,
     "count": 2,
     "skip": 0,
-    "limit": 20
+    "limit": 10
   },
   "data": [
     {
@@ -13,69 +13,48 @@
         {
           "location_slug": "or-portland",
           "within_search_area": true,
-          "distance": 1.6917855547304,
-          "lat": 45.54725,
-          "lon": -122.68037,
-          "uid": "ef85a884d2e0ce10dce1b0b4c2e4ad6d",
-          "name": "Melanie Plaut, MD",
+          "distance": 0.69155505479727,
+          "lat": 45.52596,
+          "lon": -122.68608,
+          "uid": "0ab5ad45cd80f44094920e188a7292de",
+          "name": "Portland Integrated Health Sport Medicine LLC",
           "accepts_new_patients": true,
           "insurance_uids": [
-
+            "providencehealthsystem-providencepreferredppo",
+            "aetna-aetnachoiceposii",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "providencehealthsystem-providencepersonaloption",
+            "uhcwestformerlypacificare-pacificarehmo",
+            "bcbsbluecard-bcbsbluecardppo",
+            "pacificsourcehealthplans-pacificsourcepreferredpsn",
+            "regencebluecrossblueshieldoforegon-regenceorpreferredprovidernetwork",
+            "odshealthplan-odsnetwork",
+            "lifewisehealthplanoforegon-lifewisehealthplanoforegon",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo"
           ],
           "visit_address": {
             "city": "Portland",
-            "lat": 45.54725,
-            "lon": -122.68037,
+            "lat": 45.52596,
+            "lon": -122.68608,
             "state": "OR",
             "state_long": "Oregon",
-            "street": "3550 N Interstate Ave",
-            "zip": "97227"
+            "street": "1427 NW Flanders St",
+            "street2": "Ste A",
+            "zip": "97209"
           },
           "office_hours": [
 
           ],
           "phones": [
             {
-              "number": "5033316142",
-              "type": "landline"
-            }
-          ],
-          "languages": [
-            {
-              "name": "English",
-              "code": "en"
-            }
-          ]
-        },
-        {
-          "location_slug": "or-portland",
-          "within_search_area": true,
-          "distance": 1.6917855547304,
-          "lat": 45.54725,
-          "lon": -122.68037,
-          "uid": "1b73b30358804065614289f1644d7dfa",
-          "name": "Kaiser Permanente Interstate Medical Office",
-          "accepts_new_patients": true,
-          "insurance_uids": [
-            "medicaid-medicaid",
-            "medicare-medicare",
-            "aetna-aetnamdbronzesilverandgoldhmo"
-          ],
-          "visit_address": {
-            "city": "Portland",
-            "lat": 45.54725,
-            "lon": -122.68037,
-            "state": "OR",
-            "state_long": "Oregon",
-            "street": "3550 N Interstate Ave",
-            "zip": "97227"
-          },
-          "office_hours": [
-
-          ],
-          "phones": [
-            {
-              "number": "5032859321",
+              "number": "5039720235",
               "type": "landline"
             }
           ],
@@ -89,17 +68,16 @@
       ],
       "educations": [
         {
-          "school": "University of Pennsylvania School of Medicine",
-          "degree": "MD"
+          "school": "National College of Natural Medicine",
+          "degree": "Other"
         }
       ],
       "profile": {
-        "first_name": "Melanie",
-        "middle_name": "M",
-        "last_name": "Plaut",
-        "slug": "melanie-plaut-md",
-        "title": "MD",
-        "image_url": "https:\/\/asset3.betterdoctor.com\/images\/55668a444214f823bb00171c-2_thumbnail.jpg",
+        "first_name": "Vanessa",
+        "last_name": "Esteves",
+        "slug": "vanessa-esteves-nd",
+        "title": "ND",
+        "image_url": "https:\/\/asset2.betterdoctor.com\/images\/5460208d4214f80413000182-2_thumbnail.jpg",
         "gender": "female",
         "languages": [
           {
@@ -107,7 +85,7 @@
             "code": "en"
           }
         ],
-        "bio": "I was born in Boston, lived briefly in California, attended high school in Maryland, went to Swarthmore for undergraduate studies, and then on medical school at the University of Pennsylvania. I came to the Pacific Northwest to do my residency at Oregon Health Sciences University, and now I would never want to live anywhere else! I met my husband when we were in college; he teaches Urban Planning at Portland State University. We have two terrific daughters in their twenties, and two (sometimes naughty) young standard poodles.\nMedicine has been a good fit for me. I like the challenge of keeping up with the latest research, and I look forward to reading my medical journals. I really enjoy getting to know my patients. It is a huge privilege to be part of their lives.\n\nI have a general obstetrics and gynecology practice. I enjoy caring for women with infertility, pregnancy, contraception, and menstrual or menopausal problems, among other issues. I am oriented toward prevention and natural approaches. I do surgery when it is needed. I try to partner with my patients in making decisions about medical care. I don't believe that one size fits all.\nIn addition to my practice of obstetrics and gynecology, I chair an Ethics Committee that approves any research done at Kaiser Permanente Northwest, and help others in my department to use the electronic medical record more effectively. Of course, I want the best for my own patients, but I also want all patients at Kaiser Permanente to have superb care. One of the great things about working here is that the doctors are not in competition with each other. We are always trying to help each other to make the care better for everyone.\n\nI have a large vegetable garden and also grow figs, Asian pears, grapes and blueberries. For exercise I garden, go to the gym, and walk the poodles. I try to eat a healthy diet; I am a pescatarian (vegetarian but I also eat fish), but I confess to a weakness for sweets. I enjoy crossword puzzles, and usually read two newspapers every morning. Learning something new is always a pleasure for me. I have studied French and Italian in recent years. Right now I am taking banjo lessons.\nLast year I started a monthly \"soup night\" for my neighbors, so we could see each other even during the cold and rainy winter months. In the summer, I like to stroll the neighborhood or walk over to Alberta Street. In the winter I like curling up on the couch with my husband, a knitting project, a good TV show and maybe a poodle or two."
+        "bio": "Vanessa Esteves, ND., MBA is a licensed Naturopathic physician who received her degree in Naturopathic Medicine in September 2008 from the National College of Natural Medicine (NCNM) in Portland, Oregon. Her goal is to optimize the health of her patients with a team approach to healthcare. Her naturopathic training has influenced her activities and dedication to patient centered care, wellness and a preventative model of healthcare as a clinical physician.  Her passion is to educate patients on healthcare options that are realistic and focus on safe and effective therapies that are manageable for any individual.  As naturopathic physician Dr Esteves focus on general medicine that provides healthcare options for all members of community.  \n\nDr Esteves, is passionate about her clinical work and research on integrative health care models that reaffirm the definition and the importance of collaborative healthcare with other health practitioners and conventional medical doctors.  Dr Esteves was elected as the board member to the American Association of Naturopathic Physicians in January 2007 and continues to advocate for the naturopathic medical profession on a state and federal level to ensure that patients can have access to the healthcare they choose and deserve.\n\nTreatments Offered\n\n\u2022    Preventive and acute health care services to individuals of all ages\n\u2022    Holistic General Family Practice\n\u2022    Dietary Supplement Management\n\u2022    Complete physical examinations\n\u2022    Prescribe and manage medications and other therapies\n\u2022    And more!  Allergies, Chronic pain, digestive issues, hormonal imbalances, obesity, respiratory conditions, heart disease, fertility problems, menopause, adrenal fatigue, cancer, fibromyalgia and chronic fatigue syndrome. Minor surgery, such as removing cysts or wart or mole removals."
       },
       "ratings": [
 
@@ -115,34 +93,21 @@
       "insurances": [
         {
           "insurance_plan": {
-            "uid": "medicaid-medicaid",
-            "name": "Medicaid",
+            "uid": "providencehealthsystem-providencepreferredppo",
+            "name": "Providence Preferred PPO",
             "category": [
               "medical"
             ]
           },
           "insurance_provider": {
-            "uid": "medicaid",
-            "name": "Medicaid"
+            "uid": "providencehealthsystem",
+            "name": "Providence Health System"
           }
         },
         {
           "insurance_plan": {
-            "uid": "medicare-medicare",
-            "name": "Medicare",
-            "category": [
-              "medical"
-            ]
-          },
-          "insurance_provider": {
-            "uid": "medicare",
-            "name": "Medicare"
-          }
-        },
-        {
-          "insurance_plan": {
-            "uid": "aetna-aetnamdbronzesilverandgoldhmo",
-            "name": "MD Bronze Silver  Gold - HMO",
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
             "category": [
               "medical"
             ]
@@ -151,63 +116,302 @@
             "uid": "aetna",
             "name": "Aetna"
           }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthsystem",
+            "name": "Providence Health System"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "uhcwestformerlypacificare-pacificarehmo",
+            "name": "Pacificare HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "uhcwestformerlypacificare",
+            "name": "UHC West Formerly Pacificare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbsbluecard",
+            "name": "BCBS Blue Card"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "pacificsourcehealthplans-pacificsourcepreferredpsn",
+            "name": "PacificSource Preferred PSN",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "pacificsourcehealthplans",
+            "name": "PacificSource Health Plans"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "regencebluecrossblueshieldoforegon-regenceorpreferredprovidernetwork",
+            "name": "Regence OR Preferred Provider Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "regencebluecrossblueshieldoforegon",
+            "name": "Regence Blue Cross Blue Shield of Oregon"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "odshealthplan-odsnetwork",
+            "name": "ODS Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "odshealthplan",
+            "name": "ODS Health Plan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "lifewisehealthplanoforegon-lifewisehealthplanoforegon",
+            "name": "Lifewise Health Plan of Oregon",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "lifewisehealthplanoforegon",
+            "name": "Lifewise health Plan of Oregon"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritageheritageplus1",
+            "name": "Premera Heritage  Heritage Plus 1",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeralifewiseconnect",
+            "name": "Premera LifeWise Connect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "gwhcigna",
+            "name": "GWH-Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
         }
       ],
       "specialties": [
         {
-          "uid": "obstetrics-gynecologist",
-          "name": "Obstetrics & Gynecology",
-          "description": "Specializes in the care of the female reproductive system.",
+          "uid": "naturopathic-doctor",
+          "name": "Naturopath",
+          "description": "Specializes in alternative natural healing.",
           "category": "medical",
-          "actor": "OBGYN",
-          "actors": "OBGYNS"
+          "actor": "Naturopathic Doctor",
+          "actors": "Naturopathic Doctors"
+        },
+        {
+          "uid": "preventive-medicine-doctor",
+          "name": "Preventive Medicine",
+          "description": "Specializes in preventive care and public health.",
+          "category": "medical",
+          "actor": "Preventive Medicine Doctor",
+          "actors": "Preventive Medicine Doctors"
+        },
+        {
+          "uid": "general-practitioner",
+          "name": "General Practice",
+          "description": "Specializes and treats your total health.",
+          "category": "medical",
+          "actor": "General Practitioner",
+          "actors": "General Practitioners"
         }
       ],
       "licenses": [
         {
-          "number": "MD13034",
-          "state": "OR",
-          "end_date": "2013-12-31"
-        },
-        {
-          "number": "MD00025755",
-          "state": "WA"
+          "number": "1671",
+          "state": "OR"
         }
       ],
-      "uid": "70cde4a6354685c9d57218052a094f2c",
-      "npi": "1245344803"
+      "uid": "7f4e0d7ca1a56a91286d17cf49d1d2ec",
+      "npi": "1346473733"
     },
     {
       "practices": [
         {
           "location_slug": "or-portland",
           "within_search_area": true,
-          "distance": 1.6917855547304,
-          "lat": 45.54725,
-          "lon": -122.68037,
-          "uid": "1b73b30358804065614289f1644d7dfa",
-          "name": "Kaiser Permanente Interstate Medical Office",
+          "distance": 4.0379262956882,
+          "lat": 45.51631,
+          "lon": -122.61852,
+          "uid": "cbde002da35c504095b93ea0aa1e630b",
+          "name": "Grain Integrative Health, LLC",
+          "website": "http:\/\/grainintegrativehealth.com\/t",
           "accepts_new_patients": true,
           "insurance_uids": [
-            "medicaid-medicaid",
-            "medicare-medicare",
-            "aetna-aetnamdbronzesilverandgoldhmo"
+            "multiplan-multiplanppo",
+            "multiplan-phcsppo",
+            "firstchoice-firstchoice",
+            "cigna-cignappo",
+            "aetna-aetnamanagedchoiceposopenaccess",
+            "bcbsbluecard-bcbsbluecardppo",
+            "cigna-cignaopenaccessplus",
+            "providencehealthsystem-providencepreferredppo",
+            "providencehealthsystem-providencepersonaloption",
+            "aetna-aetnachoiceposii",
+            "pacificsourcehealthplans-pacificsourcepreferredpsn",
+            "odshealthplan-odsnetwork",
+            "lifewisehealthplanoforegon-lifewisehealthplanoforegon",
+            "premerabluecross-premeraheritageheritageplus1",
+            "premerabluecross-premeraheritagesignature",
+            "premerabluecross-premeralifewiseconnect",
+            "gwhcigna-greatwestppo",
+            "unitedhealthcare-uhcchoicepluspos",
+            "unitedhealthcare-uhcnavigatehmo",
+            "unitedhealthcare-uhcnavigatepos",
+            "unitedhealthcare-uhcoptionsppo"
           ],
           "visit_address": {
             "city": "Portland",
-            "lat": 45.54725,
-            "lon": -122.68037,
+            "lat": 45.51631,
+            "lon": -122.61852,
             "state": "OR",
             "state_long": "Oregon",
-            "street": "3550 N Interstate Ave",
-            "zip": "97227"
+            "street": "4246 SE Belmont St",
+            "street2": "Ste 5",
+            "zip": "97215"
           },
           "office_hours": [
 
           ],
           "phones": [
             {
-              "number": "5032859321",
+              "number": "5034458114",
               "type": "landline"
             }
           ],
@@ -221,60 +425,95 @@
       ],
       "educations": [
         {
-          "school": "New York University School of Medicine",
-          "degree": "MD"
+          "school": "National College of Natural Medicine",
+          "degree": "Other"
         }
       ],
       "profile": {
-        "first_name": "Brian",
-        "middle_name": "L",
-        "last_name": "Greenberg",
-        "slug": "brian-greenberg-md",
-        "title": "MD",
-        "image_url": "https:\/\/asset4.betterdoctor.com\/images\/5566902a4214f82a44002c3a-2_thumbnail.jpg",
-        "gender": "male",
+        "first_name": "Sandy",
+        "last_name": "Le",
+        "slug": "sandy-le-nd",
+        "title": "ND",
+        "image_url": "https:\/\/asset1.betterdoctor.com\/images\/543f105d4214f86fb5000174-2_thumbnail.jpg",
+        "gender": "female",
         "languages": [
           {
             "name": "English",
             "code": "en"
           }
         ],
-        "bio": "I am a New Yorker by birth, and I have spent most of my life on the East Coast. Since moving to Portland in July of 2011, I have fallen in love with this town. I have two small children and I believe there is no better place for them to grow up. I am also a firm believer in the Kaiser Permanente model for providing medical care. As the health care debate rages on in this country, I see Kaiser Permanente as the model for the rest of the country to follow and I am honored to be a part of it.\n\nI am the newest of five rheumatologists at Kaiser Permanente Northwest. My approach to patient care centers around the idea that the best outcomes are achieved when the patient is an active partner in his or her care. Patients need to be informed about their condition and the risks and benefits of all the available treatment options. To this end, I believe the role of the provider is to facilitate this process by acting as both an educator and a guide.\n\nWhen not in the clinic, most of my time and energy is spent with my kids. As new arrivals to Portland, we are trying to take advantage of all the many activities available. Aside from this, I can't imagine a better way to spend a Saturday or Sunday in the summer than playing softball in the park (followed by some ice cold beverages of course)."
+        "bio": "Dr. Sandy L\u00ea is a licensed physician whose practice encompasses primary care, integrative care, mood disorders, dermatology, pediatrics, men\u2019s and women\u2019s health, as well as reproductive health and infertility.  She works with individuals that have acute or chronic health conditions by merging the best of alternative and conventional care to treat the underlying cause of disease.\nAt Grain Integrative health Dr. L\u00ea works with patients to address food allergies, depression, anxiety, insomnia, thyroid dysfunction, infertility, decreased libido, menopause, PMS, and irregular menses, polycystic ovarian syndrome, weight loss, hypertension and psoriasis.\nDr. L\u00ea graduated from the National College of Natural Medicine (NCNM) in Portland, Oregon where she completed internships in cardiovascular health, chronic disease management, and acute primary care.  She also served as an educator for \u201cFood As Medicine Everyday (FAMe)\u201d series sponsored by Bob\u2019s Red Mill empowering families to cook nutritious whole foods at NCNM\u2019s Charlee\u2019s Kitchen.\nDr. L\u00ea received a bachelor\u2019s degree in Geology from the University of California, Los Angeles.  While at UCLA, she ventured on many geological excursions and did volcano research in Hawaii.  She continues to relish in her love and appreciation of the great outdoors by camping and enjoying National Parks in her free time. She also holds a second-degree black belt in Tae-Kwon-Do."
       },
       "ratings": [
-
+        {
+          "active": true,
+          "provider": "betterdoctor",
+          "provider_uid": "sandy-le-nd",
+          "rating": 4,
+          "review_count": 0,
+          "image_url_small": "https:\/\/asset2.betterdoctor.com\/assets\/consumer\/stars\/stars-small-4.0.png",
+          "image_url_small_2x": "https:\/\/asset2.betterdoctor.com\/assets\/consumer\/stars\/stars-small-4.0@2x.png",
+          "image_url_large": "https:\/\/asset2.betterdoctor.com\/assets\/consumer\/stars\/stars-large-4.0.png",
+          "image_url_large_2x": "https:\/\/asset2.betterdoctor.com\/assets\/consumer\/stars\/stars-large-4.0@2x.png"
+        }
       ],
       "insurances": [
         {
           "insurance_plan": {
-            "uid": "medicaid-medicaid",
-            "name": "Medicaid",
+            "uid": "multiplan-multiplanppo",
+            "name": "Multiplan PPO",
             "category": [
               "medical"
             ]
           },
           "insurance_provider": {
-            "uid": "medicaid",
-            "name": "Medicaid"
+            "uid": "multiplan",
+            "name": "Multiplan"
           }
         },
         {
           "insurance_plan": {
-            "uid": "medicare-medicare",
-            "name": "Medicare",
+            "uid": "multiplan-phcsppo",
+            "name": "PHCS PPO",
             "category": [
               "medical"
             ]
           },
           "insurance_provider": {
-            "uid": "medicare",
-            "name": "Medicare"
+            "uid": "multiplan",
+            "name": "Multiplan"
           }
         },
         {
           "insurance_plan": {
-            "uid": "aetna-aetnamdbronzesilverandgoldhmo",
-            "name": "MD Bronze Silver  Gold - HMO",
+            "uid": "firstchoice-firstchoice",
+            "name": "First Choice",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "firstchoice",
+            "name": "First Choice"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignappo",
+            "name": "CIGNA PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnamanagedchoiceposopenaccess",
+            "name": "Aetna Managed Choice POS Open Access",
             "category": [
               "medical"
             ]
@@ -283,37 +522,234 @@
             "uid": "aetna",
             "name": "Aetna"
           }
+        },
+        {
+          "insurance_plan": {
+            "uid": "bcbsbluecard-bcbsbluecardppo",
+            "name": "BCBS Blue Card PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "bcbsbluecard",
+            "name": "BCBS Blue Card"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "cigna-cignaopenaccessplus",
+            "name": "CIGNA Open Access Plus",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "cigna",
+            "name": "Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepreferredppo",
+            "name": "Providence Preferred PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthsystem",
+            "name": "Providence Health System"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "providencehealthsystem-providencepersonaloption",
+            "name": "Providence Personal Option",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "providencehealthsystem",
+            "name": "Providence Health System"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "aetna-aetnachoiceposii",
+            "name": "Aetna Choice POS II",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "aetna",
+            "name": "Aetna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "pacificsourcehealthplans-pacificsourcepreferredpsn",
+            "name": "PacificSource Preferred PSN",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "pacificsourcehealthplans",
+            "name": "PacificSource Health Plans"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "odshealthplan-odsnetwork",
+            "name": "ODS Network",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "odshealthplan",
+            "name": "ODS Health Plan"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "lifewisehealthplanoforegon-lifewisehealthplanoforegon",
+            "name": "Lifewise Health Plan of Oregon",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "lifewisehealthplanoforegon",
+            "name": "Lifewise health Plan of Oregon"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritageheritageplus1",
+            "name": "Premera Heritage  Heritage Plus 1",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeraheritagesignature",
+            "name": "Premera Heritage Signature",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "premerabluecross-premeralifewiseconnect",
+            "name": "Premera LifeWise Connect",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "premerabluecross",
+            "name": "Premera Blue Cross"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "gwhcigna-greatwestppo",
+            "name": "Great West PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "gwhcigna",
+            "name": "GWH-Cigna"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcchoicepluspos",
+            "name": "UHC Choice Plus POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatehmo",
+            "name": "UHC Navigate HMO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcnavigatepos",
+            "name": "UHC Navigate POS",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
+        },
+        {
+          "insurance_plan": {
+            "uid": "unitedhealthcare-uhcoptionsppo",
+            "name": "UHC Options PPO",
+            "category": [
+              "medical"
+            ]
+          },
+          "insurance_provider": {
+            "uid": "unitedhealthcare",
+            "name": "United Healthcare"
+          }
         }
       ],
       "specialties": [
         {
-          "uid": "rheumatologist",
-          "name": "Rheumatology",
-          "description": "Specializes in joints, muscles, bones and tendons.",
+          "uid": "naturopathic-doctor",
+          "name": "Naturopath",
+          "description": "Specializes in alternative natural healing.",
           "category": "medical",
-          "actor": "Rheumatologist",
-          "actors": "Rheumatologists"
+          "actor": "Naturopathic Doctor",
+          "actors": "Naturopathic Doctors"
         }
       ],
       "licenses": [
         {
-          "end_date": "2013-12-31"
-        },
-        {
-          "number": "A98940",
-          "state": "CA"
-        },
-        {
-          "number": "048598",
-          "state": "CT"
-        },
-        {
-          "number": "48598",
-          "state": "CT"
+          "number": "1965",
+          "state": "OR"
         }
       ],
-      "uid": "68cfb24977860f634521e86216ef7669",
-      "npi": "1609074723"
+      "uid": "53a9348cb43adb135bccfc6f2f0c089a",
+      "npi": "1417384801"
     }
   ]
 }

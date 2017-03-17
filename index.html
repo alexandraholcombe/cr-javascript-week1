@@ -2,6 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8">
+  <link href="https://fonts.googleapis.com/css?family=Jura|Open+Sans" rel="stylesheet">
   <link rel="stylesheet" href="build/css/vendor.css">
   <link rel="stylesheet" href="build/css/styles.css">
   <script src="build/js/vendor.min.js"></script>
@@ -10,13 +11,16 @@
 </head>
 <body>
   <div class="container">
+    <div class="row" id="header">
+      <img src="img/doctorlogo.png" alt="Medical Caduceus" id="logo">
+      <h1>healthy me</h1>
+    </div>
     <form id="symptom-form">
-      <label for="symptom">Input primary symptom:</label>
-      <input type="text" id="symptom" class="form-control">
-      <button type="submit" name="button" id="symptom-button">Search</button>
+      <input type="text" id="symptom" class="form-control input-lg" placeholder="What's wrong?">
+      <button type="submit" name="button" id="symptom-button" class="btn">Search</button>
     </form>
     <div class="panel-group" id="result-container">
-      
+
     </div>
   </div>
 </body>
